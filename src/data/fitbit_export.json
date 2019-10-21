@@ -1,0 +1,472 @@
+{
+    "result": {
+        "Body": [
+            {
+                "Date": "2019-10-01",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-02",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-03",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-04",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-05",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-06",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-07",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-08",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-09",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-10",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-11",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-12",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-13",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-14",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-15",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-16",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-17",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-18",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-19",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-20",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            },
+            {
+                "Date": "2019-10-21",
+                "Weight": "217",
+                "BMI": "28.76",
+                "Fat": "0"
+            }
+        ],
+        "Foods": [
+            {
+                "Date": "2019-10-01",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-02",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-03",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-04",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-05",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-06",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-07",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-08",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-09",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-10",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-11",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-12",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-13",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-14",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-15",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-16",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-17",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-18",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-19",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-20",
+                "Calories In": "0"
+            },
+            {
+                "Date": "2019-10-21",
+                "Calories In": "0"
+            }
+        ],
+        "Activities": [
+            {
+                "Date": "2019-10-01",
+                "Calories Burned": "4,188",
+                "Steps": "20,866",
+                "Distance": "10.22",
+                "Floors": "29",
+                "Minutes Sedentary": "775",
+                "Minutes Lightly Active": "110",
+                "Minutes Fairly Active": "17",
+                "Minutes Very Active": "168",
+                "Activity Calories": "2,417"
+            },
+            {
+                "Date": "2019-10-02",
+                "Calories Burned": "3,888",
+                "Steps": "17,866",
+                "Distance": "8.83",
+                "Floors": "27",
+                "Minutes Sedentary": "789",
+                "Minutes Lightly Active": "130",
+                "Minutes Fairly Active": "16",
+                "Minutes Very Active": "120",
+                "Activity Calories": "2,081"
+            },
+            {
+                "Date": "2019-10-03",
+                "Calories Burned": "3,370",
+                "Steps": "10,994",
+                "Distance": "5.53",
+                "Floors": "21",
+                "Minutes Sedentary": "895",
+                "Minutes Lightly Active": "136",
+                "Minutes Fairly Active": "9",
+                "Minutes Very Active": "57",
+                "Activity Calories": "1,485"
+            },
+            {
+                "Date": "2019-10-04",
+                "Calories Burned": "4,135",
+                "Steps": "16,548",
+                "Distance": "8.28",
+                "Floors": "28",
+                "Minutes Sedentary": "686",
+                "Minutes Lightly Active": "71",
+                "Minutes Fairly Active": "47",
+                "Minutes Very Active": "148",
+                "Activity Calories": "2,303"
+            },
+            {
+                "Date": "2019-10-05",
+                "Calories Burned": "3,393",
+                "Steps": "10,984",
+                "Distance": "5.25",
+                "Floors": "6",
+                "Minutes Sedentary": "385",
+                "Minutes Lightly Active": "226",
+                "Minutes Fairly Active": "8",
+                "Minutes Very Active": "55",
+                "Activity Calories": "1,705"
+            },
+            {
+                "Date": "2019-10-06",
+                "Calories Burned": "3,818",
+                "Steps": "18,369",
+                "Distance": "9.11",
+                "Floors": "25",
+                "Minutes Sedentary": "699",
+                "Minutes Lightly Active": "84",
+                "Minutes Fairly Active": "21",
+                "Minutes Very Active": "151",
+                "Activity Calories": "2,103"
+            },
+            {
+                "Date": "2019-10-07",
+                "Calories Burned": "3,728",
+                "Steps": "15,950",
+                "Distance": "7.45",
+                "Floors": "24",
+                "Minutes Sedentary": "1,192",
+                "Minutes Lightly Active": "69",
+                "Minutes Fairly Active": "36",
+                "Minutes Very Active": "143",
+                "Activity Calories": "2,030"
+            },
+            {
+                "Date": "2019-10-08",
+                "Calories Burned": "4,186",
+                "Steps": "21,940",
+                "Distance": "12.4",
+                "Floors": "51",
+                "Minutes Sedentary": "645",
+                "Minutes Lightly Active": "157",
+                "Minutes Fairly Active": "33",
+                "Minutes Very Active": "149",
+                "Activity Calories": "2,554"
+            },
+            {
+                "Date": "2019-10-09",
+                "Calories Burned": "4,454",
+                "Steps": "22,359",
+                "Distance": "12.77",
+                "Floors": "56",
+                "Minutes Sedentary": "558",
+                "Minutes Lightly Active": "127",
+                "Minutes Fairly Active": "30",
+                "Minutes Very Active": "143",
+                "Activity Calories": "2,769"
+            },
+            {
+                "Date": "2019-10-10",
+                "Calories Burned": "3,510",
+                "Steps": "11,701",
+                "Distance": "5.91",
+                "Floors": "26",
+                "Minutes Sedentary": "678",
+                "Minutes Lightly Active": "124",
+                "Minutes Fairly Active": "16",
+                "Minutes Very Active": "91",
+                "Activity Calories": "1,652"
+            },
+            {
+                "Date": "2019-10-11",
+                "Calories Burned": "4,275",
+                "Steps": "19,281",
+                "Distance": "9.55",
+                "Floors": "32",
+                "Minutes Sedentary": "562",
+                "Minutes Lightly Active": "170",
+                "Minutes Fairly Active": "53",
+                "Minutes Very Active": "126",
+                "Activity Calories": "2,638"
+            },
+            {
+                "Date": "2019-10-12",
+                "Calories Burned": "3,948",
+                "Steps": "18,014",
+                "Distance": "8.6",
+                "Floors": "20",
+                "Minutes Sedentary": "700",
+                "Minutes Lightly Active": "136",
+                "Minutes Fairly Active": "20",
+                "Minutes Very Active": "126",
+                "Activity Calories": "2,131"
+            },
+            {
+                "Date": "2019-10-13",
+                "Calories Burned": "3,094",
+                "Steps": "7,208",
+                "Distance": "3.68",
+                "Floors": "15",
+                "Minutes Sedentary": "695",
+                "Minutes Lightly Active": "56",
+                "Minutes Fairly Active": "13",
+                "Minutes Very Active": "71",
+                "Activity Calories": "1,182"
+            },
+            {
+                "Date": "2019-10-14",
+                "Calories Burned": "3,385",
+                "Steps": "13,781",
+                "Distance": "6.89",
+                "Floors": "18",
+                "Minutes Sedentary": "858",
+                "Minutes Lightly Active": "49",
+                "Minutes Fairly Active": "7",
+                "Minutes Very Active": "120",
+                "Activity Calories": "1,533"
+            },
+            {
+                "Date": "2019-10-15",
+                "Calories Burned": "4,108",
+                "Steps": "14,978",
+                "Distance": "7.47",
+                "Floors": "22",
+                "Minutes Sedentary": "540",
+                "Minutes Lightly Active": "170",
+                "Minutes Fairly Active": "32",
+                "Minutes Very Active": "108",
+                "Activity Calories": "2,341"
+            },
+            {
+                "Date": "2019-10-16",
+                "Calories Burned": "1,972",
+                "Steps": "0",
+                "Distance": "0",
+                "Floors": "0",
+                "Minutes Sedentary": "1,440",
+                "Minutes Lightly Active": "0",
+                "Minutes Fairly Active": "0",
+                "Minutes Very Active": "0",
+                "Activity Calories": "0"
+            },
+            {
+                "Date": "2019-10-17",
+                "Calories Burned": "1,972",
+                "Steps": "0",
+                "Distance": "0",
+                "Floors": "0",
+                "Minutes Sedentary": "1,440",
+                "Minutes Lightly Active": "0",
+                "Minutes Fairly Active": "0",
+                "Minutes Very Active": "0",
+                "Activity Calories": "0"
+            },
+            {
+                "Date": "2019-10-18",
+                "Calories Burned": "1,972",
+                "Steps": "0",
+                "Distance": "0",
+                "Floors": "0",
+                "Minutes Sedentary": "1,440",
+                "Minutes Lightly Active": "0",
+                "Minutes Fairly Active": "0",
+                "Minutes Very Active": "0",
+                "Activity Calories": "0"
+            },
+            {
+                "Date": "2019-10-19",
+                "Calories Burned": "1,972",
+                "Steps": "0",
+                "Distance": "0",
+                "Floors": "0",
+                "Minutes Sedentary": "1,440",
+                "Minutes Lightly Active": "0",
+                "Minutes Fairly Active": "0",
+                "Minutes Very Active": "0",
+                "Activity Calories": "0"
+            },
+            {
+                "Date": "2019-10-20",
+                "Calories Burned": "1,972",
+                "Steps": "0",
+                "Distance": "0",
+                "Floors": "0",
+                "Minutes Sedentary": "1,440",
+                "Minutes Lightly Active": "0",
+                "Minutes Fairly Active": "0",
+                "Minutes Very Active": "0",
+                "Activity Calories": "0"
+            },
+            {
+                "Date": "2019-10-21",
+                "Calories Burned": "53",
+                "Steps": "0",
+                "Distance": "0",
+                "Floors": "0",
+                "Minutes Sedentary": "39",
+                "Minutes Lightly Active": "0",
+                "Minutes Fairly Active": "0",
+                "Minutes Very Active": "0",
+                "Activity Calories": "0"
+            }
+        ]
+    }
+}
