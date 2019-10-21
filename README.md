@@ -1,13 +1,8 @@
-# change-me
+# FitBit Analyzer
 
-[![Actions Status](https://github.com/zachlysobey/z-starter/workflows/Node%20CI/badge.svg)](https://github.com/zachlysobey/z-starter/actions)
+[![Actions Status](https://github.com/zachlysobey/fitbit-analyzer/workflows/Node%20CI/badge.svg)](https://github.com/zachlysobey/fitbit-analyzer/actions)
 
-## TODO
-
--   [ ] change "name" in `package.json`
--   [ ] change the title of this README
--   [ ] update the "Action Status" badge svg url to point at the correct repo
--   [ ] delete this TODO section (_use GitHub issues, or something intead_)
+An app to parse and visualize my FitBit data.
 
 ## Architecture
 
